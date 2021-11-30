@@ -11,5 +11,6 @@
 ![image](https://user-images.githubusercontent.com/62534722/143824680-342f2e9a-a29a-4510-ad3c-2dbc92385ccf.png)
 
 !day_07
-! 컨텐츠 배너 만들기
-![image](https://user-images.githubusercontent.com/62534722/144018769-b1b60e83-44a9-4f89-a971-8c9a9c326bb3.png)
+! 컨텐츠 배너 & 컨텐츠 게시판 만들기
+![image](https://user-images.githubusercontent.com/62534722/144019017-6742835d-e14a-44b5-a263-508ab3274a07.png)
+
