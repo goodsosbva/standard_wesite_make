@@ -14,3 +14,8 @@
 ! 컨텐츠 배너 & 컨텐츠 게시판 만들기
 ![image](https://user-images.githubusercontent.com/62534722/144019017-6742835d-e14a-44b5-a263-508ab3274a07.png)
 
+!day_08
+! 게시판 목록 만들기
+! 현재 게시판의 고유기능은 적용하지 못한 상태고, 표면적인이 디자인만 한 상ㅌ내
+![image](https://user-images.githubusercontent.com/62534722/144236644-d5231462-9fcb-4bfb-b9a2-ea71ce6cc23d.png)
+
