@@ -16,6 +16,10 @@
 
 !day_08
 ! 게시판 목록 만들기
-! 현재 게시판의 고유기능은 적용하지 못한 상태고, 표면적인이 디자인만 한 상ㅌ내
+! 현재 게시판의 고유기능은 적용하지 못한 상태고, 표면적인이 디자인만 한 상태
 ![image](https://user-images.githubusercontent.com/62534722/144236644-d5231462-9fcb-4bfb-b9a2-ea71ce6cc23d.png)
 
+!day_09
+! 게시판 목록 만들기2
+! 마찬가지로 상피적인 디자인만 한 상태 + 그림 추가
+![image](https://user-images.githubusercontent.com/62534722/144412044-7aad4e54-b073-4d81-a889-d45070cf9957.png)
