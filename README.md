@@ -23,3 +23,8 @@
 ! 게시판 목록 만들기2
 ! 마찬가지로 상피적인 디자인만 한 상태 + 그림 추가
 ![image](https://user-images.githubusercontent.com/62534722/144412044-7aad4e54-b073-4d81-a889-d45070cf9957.png)
+
+!day_10
+! 마우스 오버효과 & 탭 메뉴 만들기
+! 디자인적 요소만 표현한 것
+![image](https://user-images.githubusercontent.com/62534722/144585415-bf44105c-d2a9-4714-8f8e-b865b8bfdb93.png)
