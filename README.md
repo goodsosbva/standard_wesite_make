@@ -28,3 +28,9 @@
 ! 마우스 오버효과 & 탭 메뉴 만들기
 ! 디자인적 요소만 표현한 것
 ![image](https://user-images.githubusercontent.com/62534722/144585415-bf44105c-d2a9-4714-8f8e-b865b8bfdb93.png)
+
+!day_12
+! 게시판 4 & 갤러리 만들기
+! 디자인적 요소만 표현한 것
+![image](https://user-images.githubusercontent.com/62534722/144829971-da39ec78-dce1-40a0-8ea0-d0957546131b.png)
+
