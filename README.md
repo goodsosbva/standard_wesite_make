@@ -34,3 +34,9 @@
 ! 디자인적 요소만 표현한 것
 ![image](https://user-images.githubusercontent.com/62534722/144829971-da39ec78-dce1-40a0-8ea0-d0957546131b.png)
 
+!day_13
+! 전체적인 웹 사이트 완성
+! 슬라이드, 숨기(표시) 스크립트 완성
+![image](https://user-images.githubusercontent.com/62534722/145378068-cbd4c34e-4e9a-4600-b726-ad48420665e6.png)
+![image](https://user-images.githubusercontent.com/62534722/145378597-1cd8b9b7-ef68-421e-99dc-b97b6dced671.png)
+
