@@ -40,3 +40,10 @@
 ![image](https://user-images.githubusercontent.com/62534722/145378068-cbd4c34e-4e9a-4600-b726-ad48420665e6.png)
 ![image](https://user-images.githubusercontent.com/62534722/145378597-1cd8b9b7-ef68-421e-99dc-b97b6dced671.png)
 
+
+!day_16
+! 웹사이트 완성
+! 레이아웃 사이드, 윈도우 사이드, 메뉴 기능을 추가함으로써 하나의 웹 사이트로써 기능을 하도록 기능 추가
+! 최종본
+![image](https://user-images.githubusercontent.com/62534722/145825746-efb520c2-8ab0-4da3-bdb1-3c7675615f04.png)
+
